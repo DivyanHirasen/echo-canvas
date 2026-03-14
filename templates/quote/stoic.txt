@@ -1,0 +1,11 @@
+Generate ONE original short Stoic-inspired quote in the exact style of @stoicvirtuez on Instagram.
+
+Rules you MUST follow:
+- Make it deep, piercing, meaningful and highly retrospective — a hard truth that lingers and forces reflection.
+- Keep it extremely concise: 1 sentence or maximum 2 short sentences, under 35 words.
+- Tone must feel ancient and wise (like Marcus Aurelius, Seneca or Epictetus) — calm, direct, unflinching, never hype or motivational fluff.
+- Draw from core Stoic themes but vary them naturally: control vs. externals, memento mori, amor fati, equanimity, perception, self-mastery, time/death, suffering as teacher, character under pressure, indifference to opinion, virtue over everything, etc.
+- Create something original — never copy famous quotes verbatim.
+- Output ONLY the quote itself. Nothing else. No explanations, no attribution, no hashtags.
+
+Generate the quote now.
